@@ -47,4 +47,32 @@ As a lifelong learner, I am:
 
 ---
 
+## Portfolio Projects
+
+Here is one of my portfolio projects:
+
+### QR Code Generator
+
+This project is a simple and efficient QR Code Generator built with React.js.
+
+**Features:**
+
+- Generate QR Code based on user input.
+- QR Code adapts to different viewport sizes.
+- Copy the generated QR code as an image.
+- Download the generated QR code as a PNG file.
+- Clear the generated QR Code and reset the input field.
+- Provide user feedback through notifications.
+
+**Technologies Used:**
+
+- React.js
+- HTML2Canvas
+- react-qr-code
+- react-toastify
+
+**Live Demo:** [https://antonrosh.dev/qr-code-component/](https://antonrosh.dev/qr-code-component/)
+
+---
+
 Thank you for taking the time to learn more about me and my skills. If you have any further questions or would like to discuss potential collaborations, please don't hesitate to reach out through any of the contact channels provided above.
