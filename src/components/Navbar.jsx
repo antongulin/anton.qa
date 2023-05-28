@@ -4,18 +4,23 @@ import Logo from "../assets/logo.png";
 
 const Navbar = () => {
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
+    <div className="fixed w-full h-[80px] flex justify-between items-center px-10 bg-[#0a172f] text-white ">
       <div>
-        <img src={Logo} alt="logo" style={{ width: "100px" }} />
+        <img
+          className="object-contain"
+          src={Logo}
+          alt="logo"
+          style={{ width: "150px" }}
+        />
       </div>
       {/* Menu icons */}
       <div>
         <ul className="hidden md:flex">
-          <li>Home</li>
-          <li>About</li>
-          <li>Skills</li>
-          <li>Work</li>
-          <li>Contacts</li>
+          <li>HOME</li>
+          <li>ABOUT</li>
+          <li>SKILLS</li>
+          <li>WORK</li>
+          <li>CONTACTS</li>
         </ul>
       </div>
       {/* Hamburger menu */}
