@@ -19,6 +19,7 @@ import RestAssured from "../assets/restassured.png";
 import MySQL from "../assets/mysql.png";
 import Jenkins from "../assets/jenkins.png";
 import AzureDevOps from "../assets/azuredevops.png";
+import BITBUCKET from "../assets/bitbucket.png";
 
 const Skills = () => {
   return (
@@ -37,7 +38,7 @@ const Skills = () => {
               src={Playwright}
               alt="Playwright Icon"
             />
-            <p className="py-1">PLAYWRIGHT</p>
+            <p className="py-2 text-xs">PLAYWRIGHT</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
@@ -46,7 +47,7 @@ const Skills = () => {
               src={Selenium}
               alt="Selenium Icon"
             />
-            <p className="py-1">SELENIUM</p>
+            <p className="py-2 text-xs">SELENIUM</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
@@ -55,22 +56,22 @@ const Skills = () => {
               src={TypeScript}
               alt="TypeScript Icon"
             />
-            <p className="py-1">TYPESCRIPT</p>
+            <p className="py-2 text-xs">TYPESCRIPT</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-14 mx-auto py-2" src={Java} alt="Java Icon" />
-            <p className="py-1">JAVA</p>
+            <p className="py-2 text-xs">JAVA</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-14 mx-auto py-2" src={CSharp} alt="CSharp Icon" />
-            <p className="py-1">C#</p>
+            <p className="py-2 text-xs">C#</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-14 mx-auto py-2" src={Python} alt="Python Icon" />
-            <p className="py-1">PYTHON</p>
+            <p className="py-2 text-xs">PYTHON</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
@@ -79,12 +80,12 @@ const Skills = () => {
               src={RestAssured}
               alt="Rest Assured Icon"
             />
-            <p className="py-1">RESTASSURED</p>
+            <p className="py-2 text-xs">RESTASSURED</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-14 mx-auto py-2" src={MySQL} alt="MySQL Icon" />
-            <p className="py-1">MySQL</p>
+            <p className="py-2 text-xs">MySQL</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
@@ -93,7 +94,7 @@ const Skills = () => {
               src={Jenkins}
               alt="Jenkins Icon"
             />
-            <p className="py-1">JENKINS</p>
+            <p className="py-2 text-xs">JENKINS</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
@@ -102,17 +103,17 @@ const Skills = () => {
               src={AzureDevOps}
               alt="Azure DevOps Icon"
             />
-            <p className="py-1">AZURE DEVOPS</p>
+            <p className="py-2 text-xs">AZURE DEVOPS</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-14 mx-auto py-2" src={GitHub} alt="GitHub Icon" />
-            <p className="py-1">GITHUB</p>
+            <p className="py-2 text-xs">GITHUB</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-14 mx-auto py-2" src={Docker} alt="Docker Icon" />
-            <p className="py-1">DOCKER</p>
+            <p className="py-2 text-xs">DOCKER</p>
           </div>
         </div>
 
@@ -128,7 +129,7 @@ const Skills = () => {
               src={JavaScript}
               alt="JavaScript Icon"
             />
-            <p className="py-1">JAVASCRIPT</p>
+            <p className="py-2 text-xs">JAVASCRIPT</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
@@ -137,7 +138,7 @@ const Skills = () => {
               src={Bootstrap}
               alt="Bootstrap Icon"
             />
-            <p className="py-1">BOOTSTRAP</p>
+            <p className="py-2 text-xs">BOOTSTRAP</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
@@ -146,7 +147,7 @@ const Skills = () => {
               src={Tailwind}
               alt="Tailwind Icon"
             />
-            <p className="py-1">TAILWIND</p>
+            <p className="py-2 text-xs">TAILWIND</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
@@ -155,12 +156,12 @@ const Skills = () => {
               src={ReactImg}
               alt="React Icon"
             />
-            <p className="py-1">REACT</p>
+            <p className="py-2 text-xs">REACT</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-14 mx-auto py-2" src={Node} alt="Node Icon" />
-            <p className="py-1">NODE</p>
+            <p className="py-2 text-xs">NODE</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
@@ -169,7 +170,7 @@ const Skills = () => {
               src={MongoDB}
               alt="MongoDB Icon"
             />
-            <p className="py-1">MONGODB</p>
+            <p className="py-2 text-xs">MONGODB</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
@@ -178,12 +179,21 @@ const Skills = () => {
               src={ExpressJS}
               alt="ExpressJS Icon"
             />
-            <p className="py-1">EXPRESSJS</p>
+            <p className="py-2 text-xs">EXPRESSJS</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-14 mx-auto py-2" src={AWS} alt="AWS Icon" />
-            <p className="py-1">AWS</p>
+            <p className="py-2 text-xs">AWS</p>
+          </div>
+
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img
+              className="w-14 mx-auto py-2"
+              src={BITBUCKET}
+              alt="Bitbucket Icon"
+            />
+            <p className="py-2 text-xs">BITBUCKET</p>
           </div>
         </div>
       </div>
