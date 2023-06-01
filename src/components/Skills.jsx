@@ -15,6 +15,10 @@ import Bootstrap from "../assets/bootstrap.png";
 import MongoDB from "../assets/mongodb.png";
 import ExpressJS from "../assets/expressjs.png";
 import Tailwind from "../assets/tailwind.png";
+import RestAssured from "../assets/restassured.png";
+import MySQL from "../assets/mysql.png";
+import Jenkins from "../assets/jenkins.png";
+import AzureDevOps from "../assets/azuredevops.png";
 
 const Skills = () => {
   return (
@@ -22,39 +26,11 @@ const Skills = () => {
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
-          <p className="text-4xl font-bold inline border-b-4 border-white">
+          <p className="text-3xl font-bold inline border-b-4 border-white">
             Professional journey
           </p>
-          <p className="py-4">
-            Throughout my career, I have gained extensive experience working
-            with the following technologies.
-          </p>
         </div>
-        <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
-          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-14 mx-auto py-2" src={Java} alt="Java Icon" />
-            <p className="py-1">JAVA</p>
-          </div>
-
-          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-14 mx-auto py-2" src={CSharp} alt="CSharp Icon" />
-            <p className="py-1">C#</p>
-          </div>
-
-          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-14 mx-auto py-2" src={Python} alt="Python Icon" />
-            <p className="py-1">PYTHON</p>
-          </div>
-
-          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img
-              className="w-14 mx-auto py-2"
-              src={TypeScript}
-              alt="TypeScript Icon"
-            />
-            <p className="py-1">TYPESCRIPT</p>
-          </div>
-
+        <div className="w-full grid grid-cols-2 sm:grid-cols-6 gap-2 text-center py-8">
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-14 mx-auto py-2"
@@ -74,6 +50,62 @@ const Skills = () => {
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img
+              className="w-14 mx-auto py-2"
+              src={TypeScript}
+              alt="TypeScript Icon"
+            />
+            <p className="py-1">TYPESCRIPT</p>
+          </div>
+
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-14 mx-auto py-2" src={Java} alt="Java Icon" />
+            <p className="py-1">JAVA</p>
+          </div>
+
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-14 mx-auto py-2" src={CSharp} alt="CSharp Icon" />
+            <p className="py-1">C#</p>
+          </div>
+
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-14 mx-auto py-2" src={Python} alt="Python Icon" />
+            <p className="py-1">PYTHON</p>
+          </div>
+
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img
+              className="w-14 mx-auto py-2"
+              src={RestAssured}
+              alt="Rest Assured Icon"
+            />
+            <p className="py-1">RESTASSURED</p>
+          </div>
+
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-14 mx-auto py-2" src={MySQL} alt="MySQL Icon" />
+            <p className="py-1">MySQL</p>
+          </div>
+
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img
+              className="w-14 mx-auto py-2"
+              src={Jenkins}
+              alt="Jenkins Icon"
+            />
+            <p className="py-1">JENKINS</p>
+          </div>
+
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img
+              className="w-14 mx-auto py-2"
+              src={AzureDevOps}
+              alt="Azure DevOps Icon"
+            />
+            <p className="py-1">AZURE DEVOPS</p>
+          </div>
+
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-14 mx-auto py-2" src={GitHub} alt="GitHub Icon" />
             <p className="py-1">GITHUB</p>
           </div>
@@ -85,15 +117,11 @@ const Skills = () => {
         </div>
 
         <div>
-          <p className="text-4xl font-bold inline border-b-4 border-white">
+          <p className="text-3xl font-bold inline border-b-4 border-white">
             Currently advancing my knowledge in
           </p>
-          <p className="py-4">
-            I am actively engaged in enhancing my proficiency and understanding
-            of the following technologies.
-          </p>
         </div>
-        <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
+        <div className="w-full grid grid-cols-2 sm:grid-cols-6 gap-2 text-center py-8">
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-14 mx-auto py-2"
