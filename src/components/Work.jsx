@@ -10,7 +10,7 @@ const Work = () => {
           <p className="text-3xl font-bold inline border-b-4 border-white">
             Work
           </p>
-          <p className="py-6">Presenting my recent projects and code</p>
+          <p className="py-3">Presenting my recent projects and code</p>
         </div>
 
         {/* Container for projects */}
