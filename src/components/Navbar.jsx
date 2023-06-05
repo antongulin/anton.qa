@@ -101,7 +101,9 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0072b1] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://www.linkedin.com/in/antonrosh/ "
+              target="_blank"
+              rel="noreferrer"
             >
               LinkedIn <FaLinkedin size={30} />
             </a>
@@ -109,7 +111,9 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#171515] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://github.com/antonrosh"
+              target="_blank"
+              rel="noreferrer"
             >
               GitHub <FaGithub size={30} />
             </a>
@@ -117,7 +121,9 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#083953] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="/resume/052423-Resume-SDET-Anton-Rosh.pdf"
+              target="_blank"
+              rel="noreferrer"
             >
               Resume <BsPersonVcard size={30} />
             </a>
@@ -125,7 +131,9 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#145070] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="mailto:rosh8442@gmail.com"
+              target="_blank"
+              rel="noreferrer"
             >
               Email <HiOutlineMail size={30} />
             </a>
@@ -133,7 +141,9 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#345dbf] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://calendly.com/your-sdet-is-anton-rosh/"
+              target="_blank"
+              rel="noreferrer"
             >
               Schedule call <GrSchedule size={30} />
             </a>
