@@ -10,7 +10,7 @@ const Work = () => {
           <p className="text-3xl font-bold inline border-b-4 border-white">
             Work
           </p>
-          <p className="py-6">Presenting my recent projects and code</p>
+          <p className="py-3">Presenting my recent projects and code</p>
         </div>
 
         {/* Container for projects */}
@@ -30,13 +30,13 @@ const Work = () => {
                 <div className="pt-8 text-center">
                   <a href={project.github} target="_blank" rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                      Code
+                      Live
                     </button>
                   </a>
 
                   <a href={project.demo} target="_blank" rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                      Live
+                      Code
                     </button>
                   </a>
                 </div>

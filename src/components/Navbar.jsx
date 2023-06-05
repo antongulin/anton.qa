@@ -4,6 +4,7 @@ import { HiOutlineMail } from "react-icons/hi";
 import { GrSchedule } from "react-icons/gr";
 import { BsPersonVcard } from "react-icons/bs";
 import Logo from "../assets/logo.png";
+import { Link } from "react-scroll";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -22,11 +23,31 @@ const Navbar = () => {
       </div>
       {/* Menu icons */}
       <ul className="hidden md:flex">
-        <li>HOME</li>
-        <li>ABOUT</li>
-        <li>SKILLS</li>
-        <li>WORK</li>
-        <li>CONTACTS</li>
+        <li>
+          <Link to="home" smooth={true} duration={750}>
+            HOME
+          </Link>
+        </li>
+        <li>
+          <Link to="about" smooth={true} duration={750}>
+            ABOUT
+          </Link>
+        </li>
+        <li>
+          <Link to="skills" smooth={true} duration={750}>
+            SKILLS
+          </Link>
+        </li>
+        <li>
+          <Link to="work" smooth={true} duration={750}>
+            WORK
+          </Link>
+        </li>
+        <li>
+          <Link to="contacts" smooth={true} duration={750}>
+            CONTACTS
+          </Link>
+        </li>
       </ul>
       {/* Hamburger menu */}
       <div
@@ -43,11 +64,36 @@ const Navbar = () => {
             : "absolute top-0 left-0 w-full h-screen bg-[#0a172f] flex flex-col justify-center items-center"
         }
       >
-        <li className="py-6 text-4xl">HOME</li>
-        <li className="py-6 text-4xl">ABOUT</li>
-        <li className="py-6 text-4xl">SKILLS</li>
-        <li className="py-6 text-4xl">WORK</li>
-        <li className="py-6 text-4xl">CONTACTS</li>
+        <li className="py-6 text-4xl">
+          <Link onClick={handleClick} to="home" smooth={true} duration={750}>
+            HOME
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
+          <Link onClick={handleClick} to="about" smooth={true} duration={750}>
+            ABOUT
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
+          <Link onClick={handleClick} to="skills" smooth={true} duration={750}>
+            SKILLS
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
+          <Link onClick={handleClick} to="work" smooth={true} duration={750}>
+            WORK
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
+          <Link
+            onClick={handleClick}
+            to="contacts"
+            smooth={true}
+            duration={750}
+          >
+            CONTACTS
+          </Link>
+        </li>
       </ul>
       {/* Social icons */}
       <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
@@ -55,7 +101,9 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0072b1] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://www.linkedin.com/in/antonrosh/ "
+              target="_blank"
+              rel="noreferrer"
             >
               LinkedIn <FaLinkedin size={30} />
             </a>
@@ -63,7 +111,9 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#171515] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://github.com/antonrosh"
+              target="_blank"
+              rel="noreferrer"
             >
               GitHub <FaGithub size={30} />
             </a>
@@ -71,7 +121,9 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#083953] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="/resume/052423-Resume-SDET-Anton-Rosh.pdf"
+              target="_blank"
+              rel="noreferrer"
             >
               Resume <BsPersonVcard size={30} />
             </a>
@@ -79,7 +131,9 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#145070] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="mailto:rosh8442@gmail.com"
+              target="_blank"
+              rel="noreferrer"
             >
               Email <HiOutlineMail size={30} />
             </a>
@@ -87,7 +141,9 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#345dbf] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://calendly.com/your-sdet-is-anton-rosh/"
+              target="_blank"
+              rel="noreferrer"
             >
               Schedule call <GrSchedule size={30} />
             </a>
