@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87dc5c9f.css",
+    "main.js": "/static/js/main.258fb78b.js",
+    "static/media/personalPortfolio.png": "/static/media/personalPortfolio.be9ad87f8827f8560e0a.png",
+    "static/media/qrCodeGenerator.png": "/static/media/qrCodeGenerator.5bc641c5af199c9fce8c.png",
+    "static/media/javaSelenium.png": "/static/media/javaSelenium.094911bf1bad54053ee6.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.2203a849fdf6156e3e62.png",
+    "static/media/restassured.png": "/static/media/restassured.245303e57f11909cf8a8.png",
+    "static/media/jenkins.png": "/static/media/jenkins.7cf6aacf161bfe4a338a.png",
+    "static/media/logo.png": "/static/media/logo.4031b8848d07c0a329c2.png",
+    "static/media/typescriptPlaywright.jpg": "/static/media/typescriptPlaywright.589e3b8b57bc48910550.jpg",
+    "static/media/react.png": "/static/media/react.8ebcb0781e89175ef3ec.png",
+    "static/media/python.png": "/static/media/python.a43ca95e683e37c06a74.png",
+    "static/media/playwright.png": "/static/media/playwright.0b5e837fbc50a9c6fca6.png",
+    "static/media/mysql.png": "/static/media/mysql.5e53e953d4ad32c0635f.png",
+    "static/media/selenium.png": "/static/media/selenium.c1d81780e67b7a073e75.png",
+    "static/media/mongodb.png": "/static/media/mongodb.bd99b2cc68042b1eb557.png",
+    "static/media/java.png": "/static/media/java.cc27ca22c70ded8f0373.png",
+    "static/media/expressjs.png": "/static/media/expressjs.34acea94fdf334630494.png",
+    "static/media/pythonPlaywright.png": "/static/media/pythonPlaywright.fc04d2c2515fb795e1ee.png",
+    "static/media/github.png": "/static/media/github.01b379dff877b001ad8a.png",
+    "static/media/csharp.png": "/static/media/csharp.df48c0d0178145668baf.png",
+    "static/media/bitbucket.png": "/static/media/bitbucket.16459acdda2b6be69310.png",
+    "static/media/aws.png": "/static/media/aws.e6fd646987884d7df383.png",
+    "static/media/azuredevops.png": "/static/media/azuredevops.de910651ed9e8f3e3801.png",
+    "static/media/docker.png": "/static/media/docker.7334792ca35a2ac66ed1.png",
+    "static/media/typescript.png": "/static/media/typescript.cdc9da0b9fe4b2a59547.png",
+    "static/media/javascript.png": "/static/media/javascript.795d3cbbea3adf1d5047.png",
+    "static/media/tailwind.png": "/static/media/tailwind.8bde818de17d8ba3a898.png",
+    "static/media/node.png": "/static/media/node.8c81f06cb4ddec0e160f.png",
+    "index.html": "/index.html",
+    "main.87dc5c9f.css.map": "/static/css/main.87dc5c9f.css.map",
+    "main.258fb78b.js.map": "/static/js/main.258fb78b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87dc5c9f.css",
+    "static/js/main.258fb78b.js"
+  ]
+}
