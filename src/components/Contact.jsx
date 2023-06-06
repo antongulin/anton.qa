@@ -17,7 +17,7 @@ const Contact = () => {
           </p>
           <p className="py-3">
             Get in touch using the form below or through{" "}
-            <a href="mailto:myemail@gmail.com">email</a>
+            <a href="mailto:me@antonrosh.dev">email</a>
           </p>
         </div>
         <input
