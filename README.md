@@ -2,8 +2,7 @@
 
 Thank you for visiting my portfolio site. It is currently under construction, but I appreciate your interest. You can contact me directly through the following channels:
 
-- Email: [rosh8442@gmail.com](mailto:rosh8442@gmail.com)
-- Phone: 916-800-4085
+- Email: [me@antonrosh.dev](mailto:me@antonrosh.dev)
 - LinkedIn: [linkedin.com/in/antonrosh](https://www.linkedin.com/in/antonrosh)
 - GitHub: [github.com/antonrosh](https://github.com/antonrosh)
 - Calendly: [calendly.com/your-sdet-is-anton-rosh](https://calendly.com/your-sdet-is-anton-rosh/)
