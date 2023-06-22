@@ -3,7 +3,7 @@ import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import SdetSkills from "./components/SdetSkills";
 import FullStackSkills from "./components/FullStackSkills";
-import Work from "./components/Work";
+import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
       <About />
       <SdetSkills />
       <FullStackSkills />
-      <Work />
+      <Projects />
       <Contact />
     </div>
   );

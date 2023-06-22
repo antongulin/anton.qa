@@ -14,12 +14,14 @@ const Navbar = () => {
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a172f] text-white ">
       {/* Logo */}
       <div>
-        <img
-          className="object-contain left-4"
-          src={Logo}
-          alt="logo"
-          style={{ width: "150px" }}
-        />
+        <Link to="home" smooth={true} duration={750}>
+          <img
+            className="object-contain left-4 cursor-pointer"
+            src={Logo}
+            alt="logo"
+            style={{ width: "150px" }}
+          />
+        </Link>
       </div>
       {/* Menu icons */}
       <ul className="hidden md:flex">
@@ -44,8 +46,8 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="work" smooth={true} duration={750}>
-            WORK
+          <Link to="projects" smooth={true} duration={750}>
+            PROJECTS
           </Link>
         </li>
         <li>
@@ -141,7 +143,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#083953] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/resume/052423-Resume-SDET-Anton-Rosh.pdf"
+              href="/resume/062023-Resume-Lead-SDET-Anton-Rosh.pdf"
               target="_blank"
               rel="noreferrer"
             >
