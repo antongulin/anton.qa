@@ -10,7 +10,7 @@ const Projects = () => {
     >
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-3xl font-bold inline border-b-4 border-white">
+          <p className="text-2xl font-bold inline border-b-4 border-white">
             Projects
           </p>
           <p className="py-3">

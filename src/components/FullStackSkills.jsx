@@ -10,7 +10,7 @@ const FullStackSkills = () => {
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
-          <p className="text-3xl font-bold inline border-b-4 border-white">
+          <p className="text-2xl font-bold inline border-b-4 border-white">
             Actively learning Full Stack Development
           </p>
         </div>

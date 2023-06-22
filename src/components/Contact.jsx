@@ -12,12 +12,19 @@ const Contact = () => {
         className="flex flex-col max-w-[600px] w-full"
       >
         <div className="pb-8 text-[#f2f3f5]">
-          <p className="text-3xl font-bold inline border-b-4 border-white">
-            Contact
+          <p className="text-2xl font-bold inline border-b-4 border-white">
+            Contacts
           </p>
           <p className="py-3">
             Get in touch using the form below or through{" "}
-            <a href="mailto:me@antonrosh.dev">email</a>
+            <a
+              className="text-[#66CCFF] hover:text-[#f2f3f5]"
+              href="mailto:me@antonrosh.dev"
+              target="_blank"
+              rel="noreferrer"
+            >
+              email
+            </a>
           </p>
         </div>
         <input

@@ -6,7 +6,7 @@ const About = () => {
       <div className="flex flex-col justify-center items-center w-full h-full">
         <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8">
           <div className="sm:text-right pb-8 pl-4">
-            <p className="text-3xl font-bold inline border-b-4 border-white">
+            <p className="text-2xl font-bold inline border-b-4 border-white">
               About
             </p>
           </div>
@@ -14,7 +14,6 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-3xl font-bold">
-            <p>Hello and welcome!</p>
             <p>
               I invite you to browse through the site to get to know more about
               my projects and skills.
@@ -22,18 +21,14 @@ const About = () => {
           </div>
           <div>
             <p className="text-[#8892b0]">
-              As a seasoned Software Development Engineer in Test (SDET), I have
-              a solid foundation in a diverse set of programming languages
-              including TypeScript, Java, C#, and Python. My expertise
-              encompasses leveraging testing tools such as Playwright and
-              Selenium WebDriver to their fullest potentials. Additionally, my
-              experience spans a variety of testing frameworks like TestNG,
-              JUnit, NUnit, and PyTest, among others. Through my journey in the
-              tech industry, I have cultivated the ability to create robust
-              testing strategies and deliver quality products. I'm eager to
-              bring these skills to new challenges and opportunities. Feel free
-              to explore my recent projects and don't hesitate to reach out if
-              you have any questions or inquiries!
+              I've worked as an SDET, honing my skills in a range of languages
+              like TypeScript, Java, C#, and Python. I've utilized tools such as
+              Playwright and Selenium WebDriver, and have worked with various
+              testing frameworks including TestNG, JUnit, NUnit, and PyTest. My
+              focus has always been on creating effective testing strategies and
+              delivering high-quality products. I'm excited to take on new
+              challenges. If you have any questions or want to get in touch,
+              don't hesitate to reach out!
             </p>
           </div>
         </div>
