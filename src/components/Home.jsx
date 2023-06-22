@@ -11,7 +11,7 @@ const Home = () => {
         <h1 className="text-4xl sm:text-7xl font-bold text-[#f2f3f5]">
           Hi, I'm Anton! 👋
         </h1>
-        <h2 className="text-1xl sm:text-3xl font-bold text-[#8892b0]">
+        <h2 className="text-1xl sm:text-2xl font-bold text-[#8892b0]">
           With over 7 years of SDET experience, I'm now expanding my skill set
           into Full Stack Development.
         </h2>
