@@ -34,8 +34,13 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="skills" smooth={true} duration={750}>
-            SKILLS
+          <Link to="sdet-skills" smooth={true} duration={750}>
+            SDET SKILLS
+          </Link>
+        </li>
+        <li>
+          <Link to="fullstack-skills" smooth={true} duration={750}>
+            FULL STACK SKILLS
           </Link>
         </li>
         <li>
@@ -75,8 +80,23 @@ const Navbar = () => {
           </Link>
         </li>
         <li className="py-6 text-4xl">
-          <Link onClick={handleClick} to="skills" smooth={true} duration={750}>
-            SKILLS
+          <Link
+            onClick={handleClick}
+            to="sdet-skills"
+            smooth={true}
+            duration={750}
+          >
+            SDET SKILLS
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
+          <Link
+            onClick={handleClick}
+            to="fullstack-skills"
+            smooth={true}
+            duration={750}
+          >
+            FULL STACK SKILLS
           </Link>
         </li>
         <li className="py-6 text-4xl">
