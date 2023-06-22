@@ -12,19 +12,22 @@ const Home = () => {
           I'm Anton! 👋
         </h1>
         <h2 className="text-1xl sm:text-3xl font-bold text-[#8892b0]">
-          I'm a versatile SDET & QA Automation Lead with over 7 years of
-          experience in the tech industry.
+          Leading the way as an SDET for over 7 years, my versatility in the
+          tech industry stands strong. Currently on an exciting journey to
+          transition into Full Stack Development, ready to explore new
+          challenges.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          My specialties include creating robust automation frameworks,
-          orchestrating CI/CD processes with Docker and Kubernetes, and
-          improving product quality. I'm ready to apply my extensive QA
-          expertise to new challenges.
+          My expertise lies in constructing resilient automation frameworks,
+          managing CI/CD processes using Docker and Kubernetes, and enhancing
+          product quality. I am now eager to leverage these skills and my
+          comprehensive QA knowledge in the realm of Full Stack Development,
+          ready to embrace new challenges and opportunities.
         </p>
         <div>
-          <Link to="work" smooth={true} duration={750}>
+          <Link to="projects" smooth={true} duration={750}>
             <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:border-[#8892b0] hover:text-[#0a172f] hover:bg-white">
-              View Work
+              View Projects
               <span className="group-hover:rotate-90 duration-300">
                 <FaArrowRight className="ml-3" />
               </span>
