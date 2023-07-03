@@ -1,77 +1,43 @@
-# Portfolio Site Under Construction
+# Hello there, I'm Anton! 👋
 
-Thank you for visiting my portfolio site. It is currently under construction, but I appreciate your interest. You can contact me directly through the following channels:
+## This is a personal portfolio website developed by me using ReactJS and hosted on GitHub Pages.
 
-- Email: [me@antonrosh.dev](mailto:me@antonrosh.dev)
-- LinkedIn: [linkedin.com/in/antonrosh](https://www.linkedin.com/in/antonrosh)
-- GitHub: [github.com/antonrosh](https://github.com/antonrosh)
-- Calendly: [calendly.com/your-sdet-is-anton-rosh](https://calendly.com/your-sdet-is-anton-rosh/)
+I'm a versatile SDET & QA Automation Lead with over 7 years of experience in the tech industry. My specialties include creating robust automation frameworks, orchestrating CI/CD processes with Docker and Kubernetes, and improving product quality. I'm adept at working with testing tools like Playwright, Selenium WebDriver, and testing frameworks like TestNG, JUnit, NUnit, and PyTest. With programming expertise in TypeScript, Java, C#, and Python, I'm ready to apply my extensive QA expertise to new challenges.
 
-Thank you for your patience, and I look forward to connecting with you soon.
+- 🤖 Over 7 years of experience in comprehensive & efficient test automation solutions.
+- 🚀 Proficient in TypeScript, Java, C#, Python, Docker, Kubernetes, and various testing tools.
+- 🌱 Currently learning **Full-Stack Development** and working on [www.antonrosh.dev](http://www.antonrosh.dev)
+- 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/antonrosh/)
+- 📝 Regularly write articles on [Medium](https://medium.com/@antonrosh) and [Personal Website](http://www.antonrosh.dev) (TBA)
+- 📬 Reach out via Email: [me@antonrosh.dev](mailto:me@antonrosh.dev)
+- 🗓️ Schedule a call: [Calendly](https://www.calendly.com/your-sdet-is-anton-rosh/)
+- ⚡ Fun fact: I have visited most states in the US.
 
----
+## 👨‍💻 Skills:
 
-## About Me
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java)](https://www.oracle.com/java/)
+[![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium)](https://www.selenium.dev/)
+[![Playwright](https://img.shields.io/badge/-Playwright-ffffff?logo=Playwright&logoColor=black)](https://playwright.dev/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
-My name is Anton Rosh, and I am a skilled SDET/Quality Assurance Automation Lead with over 7 years of experience in QA. My focus is on:
+## 🌟 About Me:
 
-- Creating comprehensive and efficient test automation solutions to enhance product quality and speed to market
-- Developing test automation frameworks from scratch
-- Gaining extensive experience in UI, API, and database testing
+I am passionate about creating quality products and always excited to learn new things. Let's connect and create amazing things together!
 
-### Expertise
+## 🚀 Tech Stack used for this website:
 
-My expertise includes:
+HTML, CSS, JavaScript, ReactJS, GitHub Pages, TailwindCSS, and more.
 
-- Writing test scenarios, test cases, test data, and developing/maintaining test scripts based on business and functional requirements
-- Proficiency in TypeScript, Java, C#, and Python-based testing frameworks, including Playwright and Selenium WebDriver
-- Experience with TestNG, JUnit, NUnit, and PyTest testing frameworks
+## 🗄 My Projects:
 
-### Additional Skills and Knowledge
-
-In addition to my core expertise, I have additional skills and knowledge in:
-
-- Strong understanding of database testing using Microsoft SQL Server and NoSQL Azure Cosmos DB
-- Proficient in using API testing tools such as Postman, RestAssured API, and Rest Sharp
-- Experience with CI/CD pipeline tools such as GitHub Actions, Azure Pipelines, Jenkins, GoCD, and Bitbucket Pipelines
-- Proficiency in issue and project-tracking software such as Microsoft TFS, Microsoft Azure DevOps, Apple Radar, and Atlassian Jira
-- Extensive experience using Gherkin with Cucumber/SpecFlow for BDD
-
-### Lifelong Learning
-
-As a lifelong learner, I am:
-
-- Actively studying JavaScript and planning to switch to front-end development in addition to my extensive QA expertise
-- Eager to explore opportunities to apply my expertise to your organization
-
----
-
-## Portfolio Projects
-
-Here is one of my portfolio projects:
-
-### QR Code Generator
-
-This project is a simple and efficient QR Code Generator built with React.js.
-
-**Features:**
-
-- Generate QR Code based on user input.
-- QR Code adapts to different viewport sizes.
-- Copy the generated QR code as an image.
-- Download the generated QR code as a PNG file.
-- Clear the generated QR Code and reset the input field.
-- Provide user feedback through notifications.
-
-**Technologies Used:**
-
-- React.js
-- HTML2Canvas
-- react-qr-code
-- react-toastify
-
-**Live Demo:** [https://antonrosh.dev/qr-code-component/](https://antonrosh.dev/qr-code-component/)
-
----
-
-Thank you for taking the time to learn more about me and my skills. If you have any further questions or would like to discuss potential collaborations, please don't hesitate to reach out through any of the contact channels provided above.
+- Personal Portfolio Website using JavaScript, ReactJS, Tailwind - https://antonrosh.dev/
+- QR Code Generator using JavaScript, ReactJS - https://antonrosh.dev/qr-code-component/
+- UI Testing Framework using Python and Playwright - https://github.com/antonrosh/disney-python-playwright
+- UI Testing Framework using TypeScript and Playwright - https://github.com/antonrosh/checkers-game-ts-playwright/
+- API Testing Framework using TypeScript and Playwright - https://github.com/antonrosh/card-game-api-ts-playwright/
+- UI Testing Framework using Java, Selenium Web Driver and TestNG - https://github.com/antonrosh/AmericanCancerSocietyWorkSample
+- UI Testing Framework using Java, Selenium Web Driver and TestNG - https://github.com/antonrosh/NathanJamesWorkSample
