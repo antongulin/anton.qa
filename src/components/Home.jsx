@@ -7,19 +7,18 @@ const Home = () => {
     <div name="home" className="w-full h-screen bg-[#0a172f]">
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
-        <p className="text-white ">Hello there,</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-[#f2f3f5]">
           Hi, I'm Anton! 👋
         </h1>
         <h2 className="text-1xl sm:text-2xl font-bold text-[#8892b0]">
-          With over 7 years of SDET experience, I'm now expanding my skill set
-          into Full Stack Development.
+          Developer focused on QA with 9+ years of experience building test automation frameworks and QA processes with a programmer's mindset.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I've built robust automation frameworks, managed CI/CD processes with
-          Docker and Kubernetes, and improved product quality. I'm excited to
-          apply these skills in Full Stack Development, ready for new challenges
-          and opportunities.
+          Unlike traditional QAs, I approach testing as a developer first - designing clean architecture, 
+          writing maintainable code, and building systems from the ground up. I've built QA teams and 
+          robust automation frameworks across various industries, managed CI/CD processes, and improved 
+          product quality through a developer's lens. I'm excited to bring my unique blend of development 
+          skills and testing expertise to new challenges.
         </p>
         <div>
           <Link to="projects" smooth={true} duration={750}>

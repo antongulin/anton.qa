@@ -18,7 +18,7 @@ const Navbar = () => {
           <img
             className="object-contain left-4 cursor-pointer"
             src={Logo}
-            alt="logo"
+            alt="Anton Gulin - Developer Focused on QA"
             style={{ width: "150px" }}
           />
         </Link>
@@ -143,7 +143,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#083953] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/resume/062023-Resume-Lead-SDET-Anton-Rosh.pdf"
+              href="/resume/062023-Resume-Lead-SDET-Anton-Gulin.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -153,7 +153,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#145070] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="mailto:me@antonrosh.dev"
+              href="mailto:i@anton.qa"
               target="_blank"
               rel="noreferrer"
             >
@@ -163,7 +163,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#345dbf] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://calendly.com/your-sdet-is-anton-rosh/"
+              href="https://calendly.com/your-sdet-is-anton-gulin/"
               target="_blank"
               rel="noreferrer"
             >

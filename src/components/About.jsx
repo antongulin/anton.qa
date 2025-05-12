@@ -21,14 +21,14 @@ const About = () => {
           </div>
           <div>
             <p className="text-[#8892b0]">
-              I've worked as an SDET, honing my skills in a range of languages
-              like TypeScript, Java, C#, and Python. I've utilized tools such as
-              Playwright and Selenium WebDriver, and have worked with various
-              testing frameworks including TestNG, JUnit, NUnit, and PyTest. My
-              focus has always been on creating effective testing strategies and
-              delivering high-quality products. I'm excited to take on new
-              challenges. If you have any questions or want to get in touch,
-              don't hesitate to reach out!
+              I'm a developer who specializes in Quality Assurance, bringing a programmer's mindset to the testing world. 
+              With 9+ years of experience, I approach QA differently than traditional testers - I design clean architectures, 
+              write maintainable code, and build testing systems with the same principles used in production development. 
+              I've built and managed QA teams that operate with a developer-first mentality, creating automation 
+              frameworks in TypeScript, Java, C#, and Python that stand up to the highest software engineering standards. 
+              My expertise lies in applying true development practices to testing, implementing CI/CD pipelines, and 
+              delivering quality through code. If you're looking for someone who bridges the gap between development 
+              and QA, let's connect!
             </p>
           </div>
         </div>

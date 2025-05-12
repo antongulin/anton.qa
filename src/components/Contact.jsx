@@ -19,7 +19,7 @@ const Contact = () => {
             Get in touch using the form below or through{" "}
             <a
               className="text-[#66CCFF] hover:text-[#f2f3f5]"
-              href="mailto:me@antonrosh.dev"
+              href="mailto:i@anton.qa"
               target="_blank"
               rel="noreferrer"
             >

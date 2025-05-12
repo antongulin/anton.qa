@@ -28,7 +28,7 @@ const Projects = () => {
 
         {/* Container for projects */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
-          {/* Gird Item */}
+          {/* Grid Item */}
           {project.map((project, index) => (
             <div
               key={index}
@@ -43,13 +43,15 @@ const Projects = () => {
                 <div className="pt-8 text-center">
                   <a href={project.github} target="_blank" rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                      Live
+                      {/* Swap button text */}
+                      Code
                     </button>
                   </a>
 
                   <a href={project.demo} target="_blank" rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                      Code
+                      {/* Swap button text */}
+                      Live
                     </button>
                   </a>
                 </div>
