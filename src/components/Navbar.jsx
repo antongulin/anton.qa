@@ -123,7 +123,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0072b1] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://www.linkedin.com/in/antonrosh/ "
+              href="https://www.linkedin.com/in/antongulin/ "
               target="_blank"
               rel="noreferrer"
             >
@@ -133,7 +133,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#171515] ">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://github.com/antonrosh"
+              href="https://github.com/antongulin"
               target="_blank"
               rel="noreferrer"
             >

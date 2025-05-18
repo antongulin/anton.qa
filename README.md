@@ -8,8 +8,8 @@ I'm a developer who focuses on Quality Assurance with 9+ years of experience in 
 - 🚀 Proficient in TypeScript, Java, C#, Python, Docker, Kubernetes, and various testing tools
 - 👨‍💼 Successfully built and led QA teams with a developer-first approach across multiple industries
 - 🌱 Currently expanding my Full-Stack Development skills while working on [www.anton.qa](http://www.anton.qa)
-- 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/antonrosh/)
-- 📝 Regularly write articles on [Medium](https://medium.com/@antonrosh) and [Personal Website](http://www.anton.qa) (TBA)
+- 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/antongulin/)
+- 📝 Regularly write articles on [Medium](https://medium.com/@antongulin) and [Personal Website](http://www.anton.qa) (TBA)
 - 📬 Reach out via Email: [i@anton.qa](mailto:i@anton.qa)
 - 🗓️ Schedule a call: [Calendly](https://www.calendly.com/your-sdet-is-anton-gulin/)
 - ⚡ Fun fact: I have visited most states in the US.
@@ -29,8 +29,8 @@ HTML, CSS, JavaScript, ReactJS, GitHub Pages, TailwindCSS, and more.
 
 ## 🗄 My Projects:
 - Personal Portfolio Website using JavaScript, ReactJS, Tailwind - https://anton.qa/
-- QR Code Generator using JavaScript, ReactJS - https://anton.qa/qr-code-component/- UI Testing Framework using Python and Playwright - https://github.com/antonrosh/disney-python-playwright
-- UI Testing Framework using TypeScript and Playwright - https://github.com/antonrosh/checkers-game-ts-playwright/
-- API Testing Framework using TypeScript and Playwright - https://github.com/antonrosh/card-game-api-ts-playwright/
-- UI Testing Framework using Java, Selenium Web Driver and TestNG - https://github.com/antonrosh/AmericanCancerSocietyWorkSample
-- UI Testing Framework using Java, Selenium Web Driver and TestNG - https://github.com/antonrosh/NathanJamesWorkSample
+- QR Code Generator using JavaScript, ReactJS - https://anton.qa/qr-code-component/- UI Testing Framework using Python and Playwright - https://github.com/antongulin/disney-python-playwright
+- UI Testing Framework using TypeScript and Playwright - https://github.com/antongulin/checkers-game-ts-playwright/
+- API Testing Framework using TypeScript and Playwright - https://github.com/antongulin/card-game-api-ts-playwright/
+- UI Testing Framework using Java, Selenium Web Driver and TestNG - https://github.com/antongulin/AmericanCancerSocietyWorkSample
+- UI Testing Framework using Java, Selenium Web Driver and TestNG - https://github.com/antongulin/NathanJamesWorkSample

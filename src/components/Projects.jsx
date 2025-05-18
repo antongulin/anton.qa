@@ -17,7 +17,7 @@ const Projects = () => {
             Presenting my recent projects and code. Check out more on my{" "}
             <a
               className="text-[#66CCFF] hover:text-[#f2f3f5]"
-              href="https://github.com/antonrosh"
+              href="https://github.com/antongulin"
               target="_blank"
               rel="noreferrer"
             >
