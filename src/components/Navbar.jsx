@@ -19,7 +19,7 @@ const Navbar = () => {
             className="object-contain left-4 cursor-pointer"
             src={Logo}
             alt="Anton Gulin - Developer Focused on QA"
-            style={{ width: "150px" }}
+            style={{ width: "50px" }}
           />
         </Link>
       </div>
