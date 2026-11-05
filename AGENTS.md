@@ -106,8 +106,13 @@ Configuration and side effects:
   checks, but that is prior evidence and not a live reading. Verify permitted methods and current
   gates before merging, and do not change repository settings as a side effect of a content change.
 - Publication here is source publication of an archived repository. Do not claim a live URL, a new
-  deployment, or a successful build unless that was actually established; the Cloudflare Pages
-  binding for this tree is unverified.
+  deployment, or a successful build without actual evidence. Legacy Cloudflare Pages project
+  `antonqa` is connected to this repository on `main`; hold its automatic production and preview
+  deployments as well as `deploy.yml` before publishing source, then restore the recorded states.
+  The separate Workers application with the same name serves the current site and is outside this
+  repository's scope. GitHub Pages builds from `gh-pages` with CNAME `anton.qa`; leave that ref and
+  domain binding unchanged during source-only maintenance. Existing compiled deployments do not
+  change when only `main` changes.
 - Keep stable rules here and execution evidence in task records. When Anton requests a durable
   behavior change, record it here or in the relevant child contract.
 - Shared workflow rules are not duplicated here. Read `~/.agents/instructions/WORKFLOW.md`, or
