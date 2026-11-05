@@ -43,9 +43,10 @@ Small, flat tree. The files that carry the contracts:
 - `docs/dox-LICENSE.txt` - verbatim MIT notice for the DOX text adapted here.
 - `package.json` - notice-style npm metadata, not a published package: `private: true`, name
   `antongulin.github.io`, and `homepage` `https://anton.qa`. Scripts are `start`, `build`, `test`,
-  `eject`, `predeploy`, and `deploy` (`gh-pages -d build`). Runtime dependencies are React 18,
-  react-icons, react-scroll, react-scripts 5.0.1, and web-vitals; dev dependencies are `gh-pages`
-  and Tailwind 3.3.
+  `eject`, `predeploy`, and `deploy` (`gh-pages -d build`). The `dependencies` field lists `react`,
+  `react-dom`, `react-icons`, `react-scroll`, `react-scripts` (5.0.1), `web-vitals`,
+  `@testing-library/jest-dom`, `@testing-library/react`, and `@testing-library/user-event`.
+  `devDependencies` lists `gh-pages` and `tailwindcss`.
 - `public/` - the HTML entry template and static assets: `index.html` (Google Analytics tag and a
   third-party `nytsys` script), `favicon.png`, `logo192.png`, `logo512.png`, `manifest.json`,
   `robots.txt`, and `sitemap.xml` (two `<url>` records: the site root and `/qr-code-component/`). The
