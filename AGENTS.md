@@ -46,7 +46,7 @@ Small, flat tree. The files that carry the contracts:
   `eject`, `predeploy`, and `deploy` (`gh-pages -d build`). Runtime dependencies are React 18,
   react-icons, react-scroll, react-scripts 5.0.1, and web-vitals; dev dependencies are `gh-pages`
   and Tailwind 3.3.
-- `public/` - static assets copied verbatim into the build: `index.html` (Google Analytics tag and a
+- `public/` - the HTML entry template and static assets: `index.html` (Google Analytics tag and a
   third-party `nytsys` script), `favicon.png`, `logo192.png`, `logo512.png`, `manifest.json`,
   `robots.txt`, and `sitemap.xml` (two `<url>` records: the site root and `/qr-code-component/`). The
   retired resume record was removed together with its PDF.
