@@ -1,5 +1,7 @@
 # Hello there, I'm Anton! 👋
 
+> **Archived legacy portfolio.** This React site is kept as a historical snapshot of the 2023 portfolio. The current website is maintained at [github.com/antongulin/anton-qa-2026](https://github.com/antongulin/anton-qa-2026). The obsolete 2023 resume download has been retired; use the current site for up-to-date information.
+
 ## This is a personal portfolio website developed by me using ReactJS and hosted on GitHub Pages.
 
 I'm a developer who focuses on Quality Assurance with 9+ years of experience in the tech industry. Unlike traditional QAs, I approach testing with a developer's mindset, writing code and building systems from the ground up. My specialties include building QA teams from scratch, creating robust automation frameworks with clean architecture, orchestrating CI/CD processes with Docker and Kubernetes, and improving product quality across various sectors. With programming expertise in TypeScript, Java, C#, and Python, I bring a unique blend of development skills and testing expertise to deliver high-quality software.

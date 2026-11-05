@@ -7,12 +7,15 @@ on:
     types: [created]
 
 permissions:
+  actions: read
   contents: read
   pull-requests: write
 
 jobs:
   review:
     uses: antongulin/robin/.github/workflows/review.yml@main
+    with:
+      runner: '"ubicloud-standard-2"'
     secrets:
       LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
       LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
